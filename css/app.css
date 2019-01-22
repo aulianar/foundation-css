@@ -1,0 +1,44 @@
+*{padding: 0; margin: 0; outline: 0}
+body{font-family: 'Paytone One'; font-size: 14px; line-height: 18px;}r
+img{width: 100%;}
+.topsection{background:#363640;padding: 15px 0}
+.logo{float: left;}
+.logo img{padding: 15px 0}
+.login{float: right;}
+.login img{padding: 15px 0}
+font-size: 30px;
+margin-left: 20px;
+
+.menu > li:not (.menu-text) > a {
+  border-bottom: 2px solid transparent;
+  color: #8b8b8b;
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1;
+  padding: 0.7rem 1rem;
+  text-transform: uppercase;
+  border-bottom: 2px solid #02AFBA;
+}
+.menu > li:not (.menu-text) > a:hover{
+  color: #02AFBA;border-bottom: 2px solid #02}
+
+.slidersection{background:url(.../img/banner.png)no-repeat scroll 0 0; color: #fff; padding:100px 0}
+
+.servicesection{}
+.service h2{font-size: 35px}
+.service p{font-size: 20px}
+.sameservice{}
+.sameservice i{}
+.sameservice h3{}
+.sameservice p{}
+.makebold{
+  font-weight: bold;
+}
+
+.brand{background:#F3F1F1; padding: 60px 0;}
+.samebrand{}
+.samebrand img{}
+
+.footerbottom{padding: 10px; background: #797979;}
+.footercenter{float: center;}
